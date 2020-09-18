@@ -9,31 +9,4 @@ $(document).ready(function() {
 	});
 });
 
-//$(function () {
-	
-//     $('.main-menu li').click(function (){
-//         $(this).toggleClass('active');
-//     });
-	
-// 	$(window).scroll(function() {
-// 	    $('.works-wrap__item').each(function(){
-// 	        var imagePos = $(this).offset().top;
 
-// 	        var topOfWindow = $(window).scrollTop();
-// 	        if (imagePos < topOfWindow+650) {
-// 	            $(this).addClass("flipInX");
-// 	        }
-// 	    });
-// 	});
-	
-// 	$(window).scroll(function() {
-// 	    $('.animated').each(function(){
-// 	        var imagePos = $(this).offset().top;
-
-// 	        var topOfWindow = $(window).scrollTop();
-// 	        if (imagePos < topOfWindow+650) {
-// 	            $(this).css("opacity", "1");
-// 	        }
-// 	    });
-// 	});
-// })
